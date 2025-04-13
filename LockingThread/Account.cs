@@ -8,6 +8,11 @@ namespace LockingThread
         int balance = 0;
         Random r = new Random();
 
+        public Account()
+        {
+
+        }
+
         public Account(int initial) {
             balance = initial;
         }
