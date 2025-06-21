@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImmutableStruct", "Immutabl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{1B902FAA-83D1-4CBF-A675-F742C9C3687C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplainingSpan", "ExplainingSpan\ExplainingSpan.csproj", "{2294A54B-7D9B-4B44-A17E-750234451189}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExplainingSpan", "ExplainingSpan\ExplainingSpan.csproj", "{2294A54B-7D9B-4B44-A17E-750234451189}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Channels", "Channels\Channels.csproj", "{F75AB93F-4015-45B3-B776-581789C0C299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{2294A54B-7D9B-4B44-A17E-750234451189}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2294A54B-7D9B-4B44-A17E-750234451189}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2294A54B-7D9B-4B44-A17E-750234451189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75AB93F-4015-45B3-B776-581789C0C299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75AB93F-4015-45B3-B776-581789C0C299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75AB93F-4015-45B3-B776-581789C0C299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75AB93F-4015-45B3-B776-581789C0C299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
